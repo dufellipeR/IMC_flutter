@@ -1,16 +1,16 @@
-# imc_calcu
+# Calculador IMC 
 
 Calculador de IMC mobile
 
-## Getting Started
+## O que é o Flutter
 
-This project is a starting point for a Flutter application.
+O Flutter é:
 
-A few resources to get you started if this is your first Flutter project:
+Um framework reativo moderno,
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+Um mecanismo de renderização em 2D rápido,
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Ferramentas para desenvolvimento
+
+ 
+[Documentação Online](https://flutter.io/docs)
